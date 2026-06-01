@@ -10,7 +10,7 @@
 - 情報セキュリティマネジメント (12/2025)
 
 ## Favourites
-![Tech Stack](https://skillicons.dev/icons?i=arch,)
+![Tech Stack](https://skillicons.dev/icons?i=arch)
 [![Tech Stack](https://skillicons.dev/icons?i=misskey)](https://misskey.niri.la/@nekochanfood)
 
 ## Participations
