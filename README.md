@@ -17,3 +17,5 @@
 - 💬 Japanese Proofreader/Translator of [VRChat Localization](https://docs.vrchat.com/docs/suggesting-localization-changes) (09/2023 - present)
 - 📕 Maintainer of [VRChat Wiki](https://wiki.vrchat.com/wiki/Main_Page) (04/2024 - present)
 - 🐛 Member of [VRChat Community Testers Program](https://wiki.vrchat.com/wiki/Quality_Assurance#Community_Testers_Program) (04/2025 - present)
+
+(Those are as a volunteer, not an employee.)
