@@ -13,11 +13,10 @@ Probably a Web Developer
 ## Favourites
 ![Tech Stack](https://skillicons.dev/icons?i=arch)
 [![Tech Stack](https://skillicons.dev/icons?i=misskey)](https://misskey.niri.la/@nekochanfood)
-[<img width="18" height="18" alt="" src="" />](https://youtu.be/fC7oUOUEEi4)
 
 ## Participations
-- 💬 Japanese Proofreader/Translator of [VRChat Localization](https://docs.vrchat.com/docs/suggesting-localization-changes) (09/2023 - present)
-- 📕 Maintainer of [VRChat Wiki](https://wiki.vrchat.com/wiki/Main_Page) (04/2024 - present)
-- 🐛 Member of [VRChat Community Testers Program](https://wiki.vrchat.com/wiki/Quality_Assurance#Community_Testers_Program) (04/2025 - present)
+- [💬](https://github.com/nekochanfood/memo/tree/main/Pages/VRChat/Localisation) Japanese Proofreader/Translator of [VRChat Localization](https://docs.vrchat.com/docs/suggesting-localization-changes) (09/2023 - present)
+- [📕](https://wiki.vrchat.com/wiki/User:Usr_24fd9dd0-04f4-44e3-8937-0d7f2e2c5968) Maintainer of [VRChat Wiki](https://wiki.vrchat.com/wiki/Main_Page) (04/2024 - present)
+- [🐛](https://youtu.be/fC7oUOUEEi4) Member of [VRChat Community Testers Program](https://wiki.vrchat.com/wiki/Quality_Assurance#Community_Testers_Program) (04/2025 - present)
 
 (Those are as a volunteer, not an employee.)
