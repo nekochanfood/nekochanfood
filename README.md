@@ -1,4 +1,5 @@
-🐟[?](https://api.chanfoo.net)
+## 🐟[?](https://api.chanfoo.net)
+Probably a Web Developer
 
 ## Skills
 ![Tech Stack](https://skillicons.dev/icons?i=html,css,js,typescript,react,golang,cpp,cs,rust)
@@ -12,6 +13,7 @@
 ## Favourites
 ![Tech Stack](https://skillicons.dev/icons?i=arch)
 [![Tech Stack](https://skillicons.dev/icons?i=misskey)](https://misskey.niri.la/@nekochanfood)
+[<img width="18" height="18" alt="" src="" />](https://youtu.be/fC7oUOUEEi4)
 
 ## Participations
 - 💬 Japanese Proofreader/Translator of [VRChat Localization](https://docs.vrchat.com/docs/suggesting-localization-changes) (09/2023 - present)
